@@ -1,0 +1,11 @@
+
+"""
+Title: D Coin
+Authors: Evan Raynsford Max Sam Jeff Connon Ben
+Main: To create and disseminate a cryptocurrency that is measured in every way to the dick provided.
+"""
+
+
+def to_dick(self):
+    """ To giveaway coin that you have for a picture or delivery of penis."""
+    return self
